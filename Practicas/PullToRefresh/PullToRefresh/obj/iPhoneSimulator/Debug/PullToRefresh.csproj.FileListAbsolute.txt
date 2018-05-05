@@ -1,0 +1,14 @@
+/Users/MoniGasca/Desktop/IOS/PullToRefresh/PullToRefresh/bin/iPhoneSimulator/Debug/PullToRefresh.exe
+/Users/MoniGasca/Desktop/IOS/PullToRefresh/PullToRefresh/bin/iPhoneSimulator/Debug/PullToRefresh.pdb
+/Users/MoniGasca/Desktop/IOS/PullToRefresh/PullToRefresh/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/MoniGasca/Desktop/IOS/PullToRefresh/PullToRefresh/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/MoniGasca/Desktop/IOS/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/MoniGasca/Desktop/IOS/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_PartialAppManifest.items
+/Users/MoniGasca/Desktop/IOS/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_BundleResourceWithLogicalName.items
+/Users/MoniGasca/Desktop/IOS/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_PartialAppManifest.items
+/Users/MoniGasca/Desktop/IOS/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/MoniGasca/Desktop/IOS/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/
+/Users/MoniGasca/Desktop/IOS/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/PullToRefresh.csprojResolveAssemblyReference.cache
+/Users/MoniGasca/Desktop/IOS/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/PullToRefresh.csproj.CoreCompileInputs.cache
+/Users/MoniGasca/Desktop/IOS/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/PullToRefresh.exe
+/Users/MoniGasca/Desktop/IOS/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/PullToRefresh.pdb

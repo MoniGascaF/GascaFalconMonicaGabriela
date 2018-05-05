@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D2FC699B-2350-49AF-8156-A613797B0D95}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../IOS/CalcuTabla/CalcuTabla/ViewController.cs">
+    <Files>
+      <File FileName="../IOS/CalcuTabla/CalcuTabla/ViewController.cs" Line="21" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.PhotoPicker09 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6872CABE-3EF9-45CD-8129-479B0B465464" automaticSigning="False" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

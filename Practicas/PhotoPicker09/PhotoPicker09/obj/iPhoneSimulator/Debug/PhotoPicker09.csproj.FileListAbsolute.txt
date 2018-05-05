@@ -1,0 +1,42 @@
+/Users/akarok/Desktop/6to Semestre/Desarrollo iOS/2ndo Parcial/PhotoPicker09/PhotoPicker09/bin/iPhoneSimulator/Debug/PhotoPicker09.exe
+/Users/akarok/Desktop/6to Semestre/Desarrollo iOS/2ndo Parcial/PhotoPicker09/PhotoPicker09/bin/iPhoneSimulator/Debug/PhotoPicker09.pdb
+/Users/akarok/Desktop/6to Semestre/Desarrollo iOS/2ndo Parcial/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/akarok/Desktop/6to Semestre/Desarrollo iOS/2ndo Parcial/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_PartialAppManifest.items
+/Users/akarok/Desktop/6to Semestre/Desarrollo iOS/2ndo Parcial/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/akarok/Desktop/6to Semestre/Desarrollo iOS/2ndo Parcial/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/
+/Users/akarok/Desktop/6to Semestre/Desarrollo iOS/2ndo Parcial/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/PhotoPicker09.csproj.CoreCompileInputs.cache
+/Users/akarok/Desktop/6to Semestre/Desarrollo iOS/2ndo Parcial/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/PhotoPicker09.exe
+/Users/akarok/Desktop/6to Semestre/Desarrollo iOS/2ndo Parcial/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/PhotoPicker09.pdb
+/Users/MoniGasca/Downloads/PhotoPicker09/PhotoPicker09/bin/iPhoneSimulator/Debug/PhotoPicker09.exe
+/Users/MoniGasca/Downloads/PhotoPicker09/PhotoPicker09/bin/iPhoneSimulator/Debug/PhotoPicker09.pdb
+/Users/MoniGasca/Downloads/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/MoniGasca/Downloads/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_PartialAppManifest.items
+/Users/MoniGasca/Downloads/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_BundleResourceWithLogicalName.items
+/Users/MoniGasca/Downloads/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_PartialAppManifest.items
+/Users/MoniGasca/Downloads/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/MoniGasca/Downloads/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/
+/Users/MoniGasca/Downloads/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/PhotoPicker09.csproj.CoreCompileInputs.cache
+/Users/MoniGasca/Downloads/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/PhotoPicker09.exe
+/Users/MoniGasca/Downloads/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/PhotoPicker09.pdb
+/Users/MoniGasca/Desktop/IOS/PhotoPicker09/PhotoPicker09/bin/iPhoneSimulator/Debug/PhotoPicker09.exe
+/Users/MoniGasca/Desktop/IOS/PhotoPicker09/PhotoPicker09/bin/iPhoneSimulator/Debug/PhotoPicker09.pdb
+/Users/MoniGasca/Desktop/IOS/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/MoniGasca/Desktop/IOS/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_PartialAppManifest.items
+/Users/MoniGasca/Desktop/IOS/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_BundleResourceWithLogicalName.items
+/Users/MoniGasca/Desktop/IOS/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_PartialAppManifest.items
+/Users/MoniGasca/Desktop/IOS/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/MoniGasca/Desktop/IOS/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/
+/Users/MoniGasca/Desktop/IOS/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/PhotoPicker09.csproj.CoreCompileInputs.cache
+/Users/MoniGasca/Desktop/IOS/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/PhotoPicker09.exe
+/Users/MoniGasca/Desktop/IOS/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/PhotoPicker09.pdb
+/Users/MoniGasca/Desktop/PhotoPicker09/PhotoPicker09/bin/iPhoneSimulator/Debug/PhotoPicker09.exe
+/Users/MoniGasca/Desktop/PhotoPicker09/PhotoPicker09/bin/iPhoneSimulator/Debug/PhotoPicker09.pdb
+/Users/MoniGasca/Desktop/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/MoniGasca/Desktop/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_PartialAppManifest.items
+/Users/MoniGasca/Desktop/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_BundleResourceWithLogicalName.items
+/Users/MoniGasca/Desktop/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_PartialAppManifest.items
+/Users/MoniGasca/Desktop/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/MoniGasca/Desktop/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/
+/Users/MoniGasca/Desktop/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/PhotoPicker09.csproj.CoreCompileInputs.cache
+/Users/MoniGasca/Desktop/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/PhotoPicker09.exe
+/Users/MoniGasca/Desktop/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/PhotoPicker09.pdb
