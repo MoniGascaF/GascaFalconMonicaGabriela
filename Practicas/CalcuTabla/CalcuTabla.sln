@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcuTabla", "CalcuTabla\CalcuTabla.csproj", "{D6BBE181-063F-49CA-8621-E79A9D7990F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6BBE181-063F-49CA-8621-E79A9D7990F5}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{D6BBE181-063F-49CA-8621-E79A9D7990F5}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{D6BBE181-063F-49CA-8621-E79A9D7990F5}.Release|iPhone.ActiveCfg = Release|iPhone
+		{D6BBE181-063F-49CA-8621-E79A9D7990F5}.Release|iPhone.Build.0 = Release|iPhone
+		{D6BBE181-063F-49CA-8621-E79A9D7990F5}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{D6BBE181-063F-49CA-8621-E79A9D7990F5}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{D6BBE181-063F-49CA-8621-E79A9D7990F5}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{D6BBE181-063F-49CA-8621-E79A9D7990F5}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+/Users/MoniGasca/Desktop/IOS/CalcuTabla/CalcuTabla/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/MoniGasca/Desktop/IOS/CalcuTabla/CalcuTabla/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_PartialAppManifest.items
+/Users/MoniGasca/Desktop/IOS/CalcuTabla/CalcuTabla/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_BundleResourceWithLogicalName.items
+/Users/MoniGasca/Desktop/IOS/CalcuTabla/CalcuTabla/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_PartialAppManifest.items
+/Users/MoniGasca/Desktop/IOS/CalcuTabla/CalcuTabla/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/MoniGasca/Desktop/IOS/CalcuTabla/CalcuTabla/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/
+/Users/MoniGasca/Desktop/IOS/CalcuTabla/CalcuTabla/obj/iPhoneSimulator/Debug/CalcuTabla.csproj.CoreCompileInputs.cache
+/Users/MoniGasca/Desktop/IOS/CalcuTabla/CalcuTabla/bin/iPhoneSimulator/Debug/CalcuTabla.exe
+/Users/MoniGasca/Desktop/IOS/CalcuTabla/CalcuTabla/bin/iPhoneSimulator/Debug/CalcuTabla.pdb
+/Users/MoniGasca/Desktop/IOS/CalcuTabla/CalcuTabla/obj/iPhoneSimulator/Debug/CalcuTabla.exe
+/Users/MoniGasca/Desktop/IOS/CalcuTabla/CalcuTabla/obj/iPhoneSimulator/Debug/CalcuTabla.pdb
