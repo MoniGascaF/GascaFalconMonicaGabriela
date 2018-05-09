@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{626CCFB4-693B-49D9-A4E9-2B10BD03BA0F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TwitterApp/Modelo/Linq2TwitterManager.cs">
+    <Files>
+      <File FileName="TwitterApp/Controlador/TwitterViewController.cs" Line="17" Column="67" />
+      <File FileName="TwitterApp/Modelo/Linq2TwitterManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TwitterApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6872CABE-3EF9-45CD-8129-479B0B465464">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.TwitterApp>
+  <MultiItemStartupConfigurations />
+</Properties>

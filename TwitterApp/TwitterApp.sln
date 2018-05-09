@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterApp", "TwitterApp\TwitterApp.csproj", "{626CCFB4-693B-49D9-A4E9-2B10BD03BA0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{626CCFB4-693B-49D9-A4E9-2B10BD03BA0F}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{626CCFB4-693B-49D9-A4E9-2B10BD03BA0F}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{626CCFB4-693B-49D9-A4E9-2B10BD03BA0F}.Release|iPhone.ActiveCfg = Release|iPhone
+		{626CCFB4-693B-49D9-A4E9-2B10BD03BA0F}.Release|iPhone.Build.0 = Release|iPhone
+		{626CCFB4-693B-49D9-A4E9-2B10BD03BA0F}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{626CCFB4-693B-49D9-A4E9-2B10BD03BA0F}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{626CCFB4-693B-49D9-A4E9-2B10BD03BA0F}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{626CCFB4-693B-49D9-A4E9-2B10BD03BA0F}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
